@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-For troubleshooting problems with crashes a regular log is almost always not enough. In such cases to identify the origin of the problem we need the system log. Below is the instruction how to collect and get it.
+For troubleshooting problems with crashes, a regular log is usually not enough. In such cases, to identify the cause of the problem we need a system log. In this article, you will find out how to collect and extract a system log.
 
 **Part #1: prepare the device**
 
@@ -18,7 +18,7 @@ For troubleshooting problems with crashes a regular log is almost always not eno
 
 4. If your device runs Android 5.0 or later, increase "Logger buffer sizes" to 4M per log buffer
 
-4M should be enough for storing the logs we need until you're able to do the second part (getting log from the device);
+4M should be enough for storing the logs we need until you're able to do the second part (extracting log from the device);
 
 **Important:** you need to reproduce the problem after you've done with the first part!
 
@@ -37,9 +37,9 @@ Direct download link:
 
 3. Run this command in the console (it will be opened after install):
 
->adb logcat -v threadtime -d > C:\logcat.txt
+'>adb logcat -v threadtime -d > C:\logcat.txt'
 
-Send this log to us by contacting support or by any other way.
+Send this log to us by [contacting support](mailto:support@adguard.com?subject=logcat)
 
 **Alternative way for ROOT users:**
 
@@ -51,4 +51,4 @@ Send this log to us by contacting support or by any other way.
 
 4. Open CatLog press "Stop record" in the menu.
 
-5. Send this log to our Support Team.
+5. Send this log to our [Support Team](mailto:support@adguard.com?subject=logcat)
