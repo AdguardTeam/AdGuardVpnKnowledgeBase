@@ -1,5 +1,5 @@
 ---
-title: 'Решение проблем с AdGuard VPN для Android'
+title: 'Сбор лога (журнала)'
 taxonomy:
     category:
         - docs

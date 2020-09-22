@@ -1,5 +1,5 @@
 ---
-title: 'Solving problems with AdGuard VPN for Android'
+title: 'Battery and traffic consumption issues'
 taxonomy:
     category:
         - docs

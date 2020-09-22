@@ -1,5 +1,5 @@
 ---
-title: 'Solving problems with AdGuard VPN for Android'
+title: 'Collecting a log on AdGuard for Android'
 taxonomy:
     category:
         - docs

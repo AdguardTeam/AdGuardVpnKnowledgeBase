@@ -1,5 +1,5 @@
 ---
-title: 'Решение проблем с AdGuard VPN для Android'
+title: 'Вопросы потребления трафика и ресурса батареи'
 taxonomy:
     category:
         - docs

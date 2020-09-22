@@ -37,7 +37,7 @@ visible: true
 
 3. Запустите эту команду в консоли (консоль откроется автоматически после установки приложения):
 
-'>adb logcat -v threadtime -d > C:\logcat.txt'
+`>adb logcat -v threadtime -d > C:\logcat.txt` 
 
 Полученный таким образом лог и нужно отправить в [службу технической поддержки AdGuard](mailto:support@adguard.com?subject=logcat)
 

@@ -37,7 +37,7 @@ Direct download link:
 
 3. Run this command in the console (it will be opened after install):
 
-'>adb logcat -v threadtime -d > C:\logcat.txt'
+`>adb logcat -v threadtime -d > C:\logcat.txt` 
 
 Send this log to us by [contacting support](mailto:support@adguard.com?subject=logcat)
 
