@@ -1,5 +1,5 @@
 ---
-title: 'Collecting a log on AdGuard for Android'
+title: 'Collecting a log in AdGuard VPN for Android'
 taxonomy:
     category:
         - docs
