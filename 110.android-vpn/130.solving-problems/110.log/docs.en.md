@@ -41,5 +41,3 @@ To collect a **debug** log and send it to us you need to perform following steps
 As an alternative, you can export the logs (along with the *state.txt* file that contains system information and information about AdGuard settings) directly into a local file. It can be convenient, for example, if you are having a conversation with a developer on [GitHub](https://github.com/Adguardteam/), [forum](https://forum.adguard.com/) or on another platform. Or you can send it to our [Support Team](mailto:support@adguard.com).
 
 To export logs and system information into a file, go to "Settings — Advanced settings" and tap on "Export logs and system info". Select the destination folder and tap on "Save".
-
-Another way of collecting logs is to do it with logcat. Read more about logcat [here](https://kb.adguard-vpn.com/en/android-vpn/solving-problems/logcat).
