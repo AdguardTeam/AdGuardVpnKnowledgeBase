@@ -1,5 +1,5 @@
 ---
-title: 'AdGuard VPN and AdGuard ad blocker: Compatibility mode'
+title: 'Compatibility mode with AdGuard ad blocker'
 taxonomy:
     category:
         - docs
@@ -7,7 +7,7 @@ visible: true
 ---
 
 # AdGuard VPN and AdGuard ad blocker: Compatibility mode
-Starting from the [version 3.5](https://adguard.com/en/blog/adguard-3-5-for-android.html) AdGuard ad blocker has compatibility mode with AdGuard VPN. The moment you have both apps installed, you receive a push notification, that says “Compatibility mode is enabled”. That’s it. Both apps recognise each other and instantly set up a seamless collaboration. 
+Starting with the [version 3.5](https://adguard.com/en/blog/adguard-3-5-for-android.html) AdGuard ad blocker has compatibility mode with AdGuard VPN. The moment you have both apps installed, you receive a push notification, that says “Compatibility mode is enabled”. That’s it. Both apps recognise each other and instantly set up a seamless collaboration. 
 
 <img src="https://cdn.adguard.com/public/Adguard/kb/VPN/android_compatibility_mode.png" width="350" />
 
