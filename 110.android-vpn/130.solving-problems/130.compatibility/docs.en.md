@@ -1,5 +1,5 @@
 ---
-title: 'Compatibility mode with AdGuard ad blocker'
+title: 'Compatibility with AdGuard ad blocker'
 taxonomy:
     category:
         - docs
