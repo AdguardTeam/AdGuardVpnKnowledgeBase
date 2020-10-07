@@ -7,7 +7,7 @@ visible: true
 ---
 
 # AdGuard VPN и блокировщик рекламы AdGuard: Режим совместимости
-Начиная с [версии 3.5](https://adguard.com/ru/blog/adguard-3-5-for-android.html) блокировщик рекламы AdGuard и AdGuard VPN автоматически настраивают режим совместимости. Как только вы установили оба приложения, вам приходит пуш уведомление о том, что режим совместимости включен. Оба придложения распознают друг друга и настраивают бесперебойную, совместную работу. 
+Начиная с [версии 3.5](https://adguard.com/ru/blog/adguard-3-5-for-android.html) блокировщик рекламы AdGuard и AdGuard VPN автоматически настраивают режим совместимости. Как только вы установили оба приложения, вам приходит пуш-уведомление о том, что режим совместимости включен. Оба придложения распознают друг друга и настраивают бесперебойную, совместную работу. 
 
 <img src="https://cdn.adguard.com/public/Adguard/kb/VPN/android_compatibility_mode_ru.png" width="350" />
 
@@ -23,6 +23,6 @@ visible: true
 
 <img src="https://cdn.adguard.com/public/Adguard/kb/VPN/android_compatibility_disable_ru.png" width="350" />
 
-выберите режим "VPN" или "SOCKS5" и нажмите кнопку "Unlink".
+Выберите режим "VPN" или "SOCKS5" и нажмите кнопку "Отключить".
 
 <img src="https://cdn.adguard.com/public/Adguard/kb/VPN/android_compatibility_unlink_ru.png" width="350" />
