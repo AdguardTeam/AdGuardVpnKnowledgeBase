@@ -17,9 +17,7 @@ If you haven’t installed AdGuard VPN yet, you can do that right from the AdGua
 
 <img src="https://cdn.adguard.com/public/Adguard/kb/VPN/android_compatibility_download_vpn.png" width="350" />
 
-If for some reason you would like to turn Compatibility Mode off, just go to "Settings" "Advanced settings" - "Operating mode" 
-
-<img src="https://cdn.adguard.com/public/Adguard/kb/VPN/android_compatibility_operating_mode.png" width="350" />
+If for some reason you would like to turn Compatibility Mode off, just go to "Settings" - "App Settings" - "Advanced settings" - "Operating mode" 
 
 <img src="https://cdn.adguard.com/public/Adguard/kb/VPN/android_compatibility_disable.png" width="350" />
 
